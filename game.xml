@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<name>Babadom</name>
+	<description>Babadom
+
+部に古くから伝わる名作です。
+	</description>
+	<difficulty>2</difficulty>
+	<exe>Babadom.exe</exe>
+	<image>image.png</image>
+</game>
